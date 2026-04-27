@@ -1,0 +1,2 @@
+* ARM templates are idempotent, which means you can deploy the same template many times and get the same resource types in the same state.
+
